@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwms_docs=self.webpackChunkwms_docs||[]).push([[8372],{8999:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/wmsdocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
